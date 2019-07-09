@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "1019059706507",
+    "firebase_url": "https://demochatfirebase-5f228.firebaseio.com",
+    "project_id": "demochatfirebase-5f228",
+    "storage_bucket": "demochatfirebase-5f228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019059706507:android:0cf3ae76fb63fbb3",
+        "android_client_info": {
+          "package_name": "com.example.leomossi.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019059706507-87qo4129er3ht63r14eof230nq5lihpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leomossi.chatfirebase",
+            "certificate_hash": "0613d195929b74ac9cb257893f54edfa2d20a581"
+          }
+        },
+        {
+          "client_id": "1019059706507-4e971eo2eqvkl81kbii9qpg0402kmkqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leomossi.chatfirebase",
+            "certificate_hash": "62110c14756831d126cf61468926488e858f5c59"
+          }
+        },
+        {
+          "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLYi5ber7q4fFxLymHT29W0gVqgX67_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019059706507:android:169f2a2948429f02",
+        "android_client_info": {
+          "package_name": "com.example.leomossi.demochatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019059706507-pd2abm04eiki72l0gfaj7a1o36hb3dh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leomossi.demochatfirebase",
+            "certificate_hash": "62110c14756831d126cf61468926488e858f5c59"
+          }
+        },
+        {
+          "client_id": "1019059706507-mpsngrva9tmhr5c9a05kq0bpjvcigp02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leomossi.demochatfirebase",
+            "certificate_hash": "7af6fd4c7062fdec0eecf69770d73b637bb75a4a"
+          }
+        },
+        {
+          "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLYi5ber7q4fFxLymHT29W0gVqgX67_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019059706507:android:7aafe8bb9772224c",
+        "android_client_info": {
+          "package_name": "com.mosmallowz.helloworldtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019059706507-93ebjt1dnn0tvil23qtjofuprdp74qls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mosmallowz.helloworldtalk",
+            "certificate_hash": "ac3aef7dc98fbf11b0f1f63f84547ea2a05dd5f3"
+          }
+        },
+        {
+          "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLYi5ber7q4fFxLymHT29W0gVqgX67_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019059706507-pqmgb9imf8u35r6osdlt9n2tbd121u36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

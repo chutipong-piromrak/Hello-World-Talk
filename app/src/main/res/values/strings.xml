@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello World Talk</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_global">Global</string>
+    <string name="title_add_friends">Add Friends</string>
+    <string name="title_log_out">Log Out</string>
+    <string name="title_delete_account">Delete Account</string>
+    <string name="title_groups">Groups</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
